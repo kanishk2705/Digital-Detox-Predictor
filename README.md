@@ -23,3 +23,14 @@ This project was built iteratively, mimicking a real-world Agile development lif
     * Cleaned raw data (handled missing values, outliers).
     * Engineered features: Converted categorical inputs (Platform, Gender) into numerical vectors using One-Hot Encoding.
     * **Key Insight:** Found a strong correlation between *Sleep Hours* and *Addiction Score*, but surprisingly, *Message-based apps* (like WhatsApp) showed lower addiction risks than *Scroll-based apps* (like TikTok).
+
+### Phase 2: Model Training (The Champion-Challenger Strategy)
+I tested three algorithms to find the most accurate predictor.
+### Model Performance Comparison
+
+| Model | R² Score (Accuracy) | Verdict |
+| :--- | :--- | :--- |
+| **Linear Regression** | 97.00% | Good baseline, but struggles with non-linear patterns. |
+| **Decision Tree** | 96.64% | Good logic, but prone to overfitting. |
+| **Random Forest** | **97.99%** | **🏆 The Champion Model.** Stabilized variance using 100 decision trees. |
+* **Outcome:** The **Random Forest Regressor** was saved (`.pkl`) as the production engine.
