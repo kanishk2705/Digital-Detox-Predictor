@@ -58,15 +58,12 @@ I tested three algorithms to find the most accurate predictor.
    ```bash
    git clone [https://github.com/YourUsername/Digital-Detox-Predictor.git](https://github.com/YourUsername/Digital-Detox-Predictor.git)
    cd Digital-Detox-Predictor
-Install Dependencies
-
-Bash
-
+2. Install Dependencies
+```bash
 pip install -r requirements.txt
-Run the App
-
-Bash
-
+3. Run the App
+```bash
+streamlit run app.py
 ## 📂 Project Structure
 The repository is organized as follows:
 
