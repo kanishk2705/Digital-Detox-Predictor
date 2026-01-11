@@ -56,7 +56,7 @@ I tested three algorithms to find the most accurate predictor.
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YourUsername/Digital-Detox-Predictor.git](https://github.com/YourUsername/Digital-Detox-Predictor.git)
+   git clone [https://github.com/kanishk2705/Digital-Detox-Predictor.git](https://github.com/kanishk2705/Digital-Detox-Predictor.git)
    cd Digital-Detox-Predictor
 
 2. **Install Dependencies**
@@ -66,7 +66,6 @@ I tested three algorithms to find the most accurate predictor.
 3. **Run the App**
    ```bash
    streamlit run app.py
-
 
 ## 📂 Project Structure
 The repository is organized as follows:
