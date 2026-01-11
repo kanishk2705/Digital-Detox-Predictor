@@ -80,4 +80,4 @@ The repository is organized as follows:
 └── 📄 README.md              # Project Documentation
 
 👨‍💻 Author
-A C KANISHK | Aspiring Data Scientist | ML Enthusiast |https://www.linkedin.com/in/kanishk27 | https://github.com/kanishk2705
+A C KANISHK | Aspiring Data Scientist | ML Enthusiast | https://www.linkedin.com/in/kanishk27 |
