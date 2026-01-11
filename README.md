@@ -2,7 +2,10 @@
 
 ### *Are you owning your phone, or is it owning you?*
 
----
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://digital-detox-predictor-ti4ofe4krykbecwwsgny6w.streamlit.app/)
+
+**🚀 Live Demo:** [Click Here to Launch App](https://digital-detox-predictor-ti4ofe4krykbecwwsgny6w.streamlit.app/)  
+**📊 Dashboard:** [View Power BI Analytics](#-project-structure) *(Coming Soon)*
 
 ## 📖 Project Overview
 In an era of hyper-connectivity, digital addiction is a silent crisis affecting mental health, academic performance, and social relationships. 
